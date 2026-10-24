@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "yamrnn"
+version = "0.1.0"
+description = "YamRNN for PyTorch"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  {name = "Kazunori D. Yamada"},
+]
+dependencies = [
+  "torch>=2.0",
+]
+
+[project.urls]
+Repository = "https://github.com/caramelazuki/YamRNN"
+Paper = "https://doi.org/10.4036/iis.2020.R.01"
+
+[tool.setuptools]
+py-modules = ["yamrnn"]
