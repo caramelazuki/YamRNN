@@ -24,4 +24,4 @@ python -m pip install "git+https://github.com/caramelazuki/YamRNN.git"
 
 ## Reference
 
-Yamada KD, Lin F, Nakamura T, [Developing a Novel Recurrent Neural Network Architecture with Fewer Parameters and Good Learning Performance](https://doi.org/10.4036/iis.2020.R.01), Interdisciplinary Information Sciences, 27(1), 25–40, 2021
+Yamada KD, Lin F, Nakamura T, [Developing a Novel Recurrent Neural Network Architecture with Fewer Parameters and Good Learning Performance](https://doi.org/10.4036/iis.2020.R.01), Interdisciplinary Information Sciences, 2021
